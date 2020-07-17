@@ -1,0 +1,9 @@
+{
+  "name": "ssluzba",
+  "version": "0.0.0",
+  "description": "Description for ssluzba",
+  "private": true,
+  "devDependencies": {
+    "cypress": "^4.7.0"
+  }
+}
