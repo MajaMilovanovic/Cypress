@@ -4,6 +4,9 @@
   "description": "Description for ssluzba",
   "private": true,
   "devDependencies": {
-    "cypress": "^4.7.0"
-  }
+    "@testing-library/cypress": "^6.0.0",
+    "cypress": "^4.7.0",
+    "cypress-file-upload": "^4.0.7"
+  },
+  "dependencies": {}
 }
